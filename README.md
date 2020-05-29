@@ -1,5 +1,7 @@
 # PySpark_setup_colab
-This project is to show how to set up PySpark in Google Colab.
+This project is to show how to set up PySpark in Google Colab. 
+(A dummy linear regression model has been created to demonstrate the same)
+
 spark-2.4.5 has been used here to set up the environment at the time of this project.
 
 If spark 2.4.5 is not available for download at the moment someone is setting up or 
