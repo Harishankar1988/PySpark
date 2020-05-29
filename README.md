@@ -7,5 +7,7 @@ if someone wants to setup a different version of spark using different download 
 please update the following three details with the availble verion of spark and download link.
 
 !wget -q http://apachemirror.wuchna.com/spark/spark-2.4.5/spark-2.4.5-bin-hadoop2.7.tgz
+
 !tar xf spark-2.4.5-bin-hadoop2.7.tgz
+
 os.environ["SPARK_HOME"] = "/content/spark-2.4.5-bin-hadoop2.7"
